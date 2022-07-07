@@ -1,1 +1,1 @@
-read me for 6-firstdirectory
+readme for 7-movethatfile
