@@ -1,1 +1,1 @@
-My readme for 5-listfilesdigitonly
+read me for 6-firstdirectory
